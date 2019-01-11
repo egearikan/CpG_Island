@@ -8,3 +8,5 @@ Properties of CpG Islands
   regions plays an important role in epigenetic formation of many cancer types.                                                           
 • CpG islands are important “attributes” in the in silico detection of promoters and
   to predict methylation probabilities
+  
+Do not hesitate to ask questions or report a bug via opening an "Issue"
